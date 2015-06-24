@@ -1,0 +1,9 @@
+C:\git\Task3\Calculator\Calculator.Tests\bin\Debug\Calculator.Tests.dll
+C:\git\Task3\Calculator\Calculator.Tests\bin\Debug\Calculator.Tests.pdb
+C:\git\Task3\Calculator\Calculator.Tests\bin\Debug\Calculator.exe
+C:\git\Task3\Calculator\Calculator.Tests\bin\Debug\nunit.framework.dll
+C:\git\Task3\Calculator\Calculator.Tests\bin\Debug\Calculator.pdb
+C:\git\Task3\Calculator\Calculator.Tests\bin\Debug\nunit.framework.xml
+C:\git\Task3\Calculator\Calculator.Tests\obj\Debug\Calculator.Tests.csprojResolveAssemblyReference.cache
+C:\git\Task3\Calculator\Calculator.Tests\obj\Debug\Calculator.Tests.dll
+C:\git\Task3\Calculator\Calculator.Tests\obj\Debug\Calculator.Tests.pdb
