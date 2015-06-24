@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\git\Task3\NUnitPractice\Calculator\Calculator.Tests\bin\Debug\Calculator.Tests.dll" total="2" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2015-06-24" time="15:39:01">
+  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.8009" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\git\Task3\NUnit-2.6.4\bin" machine-name="LE-PC04BS5J" user="Qian.Zhou" user-domain="NPSPOT" />
+  <culture-info current-culture="fi-FI" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\git\Task3\NUnitPractice\Calculator\Calculator.Tests\bin\Debug\Calculator.Tests.dll" executed="True" result="Success" success="True" time="0.083" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="Calculator" executed="True" result="Success" success="True" time="0.065" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Tests" executed="True" result="Success" success="True" time="0.064" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="SimpleCalculatorTests" executed="True" result="Success" success="True" time="0.062" asserts="0">
+                <results>
+                  <test-case name="Calculator.Tests.SimpleCalculatorTests.ShouldAddTwoNumbers" executed="True" result="Success" success="True" time="0.038" asserts="1" />
+                  <test-case name="Calculator.Tests.SimpleCalculatorTests.ShouldMultiplyTwoNumbers" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

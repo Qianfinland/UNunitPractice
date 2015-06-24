@@ -3,3 +3,8 @@ C:\git\Task3\Calculator\Calculator\bin\Debug\Calculator.exe
 C:\git\Task3\Calculator\Calculator\bin\Debug\Calculator.pdb
 C:\git\Task3\Calculator\Calculator\obj\Debug\Calculator.exe
 C:\git\Task3\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\git\Task3\NUnitPractice\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\git\Task3\NUnitPractice\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\git\Task3\NUnitPractice\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\git\Task3\NUnitPractice\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\git\Task3\NUnitPractice\Calculator\Calculator\bin\Debug\Calculator.pdb

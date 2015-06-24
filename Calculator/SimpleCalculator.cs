@@ -13,5 +13,10 @@ namespace Calculator
             //bug for demo 
             return a * b;
         }
+
+        public double AddDoubles(double a, double b)
+        {
+            return a + b;
+        }
     }
 }
